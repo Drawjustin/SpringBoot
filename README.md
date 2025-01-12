@@ -1,7 +1,7 @@
 # SpringBoot
 SpringBoot
 💡 Introduction
-김영한의 **스프링 부트 - 핵심 원리와 활용 강의 | 김영한 **입니다.  
+김영한의 **스프링 부트 - 핵심 원리와 활용 강의 | 김영한**입니다.  
 내장서버, 자동 라이브러리 관리, 자동 구성, 외부 설정, 모니터링을 이해하고 연습하기 위한 프로젝트 입니다.
 
 This project is designed as a practice platform to understand and explore key features of Spring Boot,
