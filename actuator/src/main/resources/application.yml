@@ -6,6 +6,8 @@ management:
       enabled: true
     env:
       enabled: true
+  server:
+    port: 8080
   endpoint:
     shutdown:
       enabled: true
@@ -26,3 +28,4 @@ info:
 logging:
   level:
     hello.controller: debug
+
